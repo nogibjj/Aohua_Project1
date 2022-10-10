@@ -12,7 +12,7 @@ databricks clusters list --output JSON | jq
 
 
 ## CLI command line interface
-User can use CLI interface to execute queries, like ```./query.py cli-query``` and ```./query.py cli-query <--query QUERYTEXT>``` 
+User can use CLI interface to execute queries, like ```./query_sql_db.py cli-query``` and ```./query.py cli-query <--query QUERYTEXT>``` 
 
 
 [![Python application test with Github Actions](https://github.com/nogibjj/Aohua_Project1/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Aohua_Project1/actions/workflows/main.yml)
