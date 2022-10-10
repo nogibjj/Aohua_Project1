@@ -8,7 +8,7 @@ This is a command-line tool project that communicates with databricks cluster, e
 
 ## Test the connection between codespaces and databricks cluster 
 Use use ```databricks-cli``` to print out the information of the databricks clustser
-databricks clusters list --output JSON | jq
+```databricks clusters list --output JSON | jq```
 
 
 ## CLI command line interface
